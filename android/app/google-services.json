@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "969125227852",
+    "firebase_url": "https://pui1-b3d37-default-rtdb.firebaseio.com",
+    "project_id": "pui1-b3d37",
+    "storage_bucket": "pui1-b3d37.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969125227852:android:0c4cdb8dccd716971a73e9",
+        "android_client_info": {
+          "package_name": "com.example.pui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCTGsoP8ZwqDDeF4hj_RlFOcanz84zlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
